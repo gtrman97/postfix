@@ -1,6 +1,4 @@
 /*--------------------------------------------------------
- * Name: Andrew Killian
- *
  * Program to solve any postfix
  * equation that the user may enter.
  --------------------------------------------------------*/
